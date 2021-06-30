@@ -1,0 +1,45 @@
+C:\Users\r25\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\r25\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\r25\source\repos\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\r25\source\repos\Lab1\Lab1\bin\Debug\GDIDrawer.dll
+C:\Users\r25\source\repos\Lab1\Lab1\bin\Debug\Utilities.dll
+C:\Users\r25\source\repos\Lab1\Lab1\bin\Debug\Utilities.pdb
+C:\Users\r25\source\repos\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\r25\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+C:\Users\r25\source\repos\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\r25\source\repos\Lab1\Lab1\obj\Debug\Lab1.pdb
+E:\CMPE 1600\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\CMPE 1600\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\CMPE 1600\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\CMPE 1600\Lab1\Lab1\bin\Debug\Utilities.pdb
+E:\CMPE 1600\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+E:\CMPE 1600\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\CMPE 1600\Lab1\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+E:\CMPE 1600\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\CMPE 1600\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\r25\Downloads\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\r25\Downloads\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\r25\Downloads\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\r25\Downloads\Lab1\Lab1\bin\Debug\Utilities.pdb
+C:\Users\r25\Downloads\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\r25\Downloads\Lab1\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+C:\Users\r25\Downloads\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\r25\Downloads\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\rjs\Downloads\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\rjs\Downloads\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\rjs\Downloads\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\rjs\Downloads\Lab1\Lab1\bin\Debug\Utilities.pdb
+C:\Users\rjs\Downloads\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\rjs\Downloads\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\rjs\Downloads\Lab1\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+C:\Users\rjs\Downloads\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\rjs\Downloads\Lab1\Lab1\obj\Debug\Lab1.pdb
+E:\First year\CMPE 1600\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\First year\CMPE 1600\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\First year\CMPE 1600\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\First year\CMPE 1600\Lab1\Lab1\bin\Debug\Utilities.pdb
+E:\First year\CMPE 1600\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+E:\First year\CMPE 1600\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\First year\CMPE 1600\Lab1\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+E:\First year\CMPE 1600\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\First year\CMPE 1600\Lab1\Lab1\obj\Debug\Lab1.pdb
